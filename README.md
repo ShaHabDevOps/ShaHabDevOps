@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=435&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%A6" alt="Typing SVG" />
   
-  [![GitHub followers](https://img.shields.io/github/followers/shahabuddinkhan?style=social)](https://github.com/shahabuddinkhan)
+  [![GitHub followers](https://img.shields.io/github/followers/shahabuddinkhan?style=social)](https://github.com/ShaHabDevOps)
   ![Profile Views](https://komarev.com/ghpvc/?username=shahabuddinkhan&color=blue)
 </div>
 
@@ -24,8 +24,8 @@ Hi there! 👋 I'm **Shahabuddin Khan**, a passionate DevOps Engineer with exper
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahabuddinkhan2059@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahabuddin-khan-806748250)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KS5PxnNUy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahabuddinkhan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shahabuddin.kh.5876)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaHabDevOps)
 
 </div>
 
